@@ -127,8 +127,8 @@ const Navbar = () => {
 
           <li className="flex w-[160px] justify-between items-center ml-[-120px] hover:ml-0  duration-300 p-2 bg-slate-900">
             <a
-              href="CV Elang ATS.pdf"
-              download="CV.pdf"
+              href="elang.pdf"
+              download="elang.pdf"
               className="flex w-full justify-between"
             >
               {" "}
