@@ -225,7 +225,7 @@ const Portfolio = () => {
               target="_blank"
               className="font-bold text-xl mb-2 block hover:text-orange-600 transition duration-300 text-slate-300"
             >
-              EL-Tech
+              Cipta Mitra Kualitama
             </a>
             <p className="text-slate-400 mb-2 text-sm">
               Landing Page Build with Reactjs and Tailwind
@@ -233,7 +233,7 @@ const Portfolio = () => {
 
             <div className="flex w-full  mt-5">
               <a
-                href="https://elangn.github.io/EL-Tech/"
+                href="https://www.elang-maulana.online/"
                 className="px-2  bg-green-500 rounded-sm text-xs py-1 flex items-center font-semibold mr-4"
                 target="_blank"
               >
@@ -255,7 +255,7 @@ const Portfolio = () => {
               </a>
 
               <a
-                href="https://github.com/elangn/EL-Tech.git"
+                href="https://github.com/elangn/Cipta.git"
                 className="px-2  bg-yellow-500 rounded-sm text-xs  py-1 flex items-center font-semibold"
                 target="_blank"
               >
