@@ -2,6 +2,7 @@ import React from "react";
 import Alberta from "../assets/alberta.png";
 import WatchWatch from "../assets/watchwatch.png";
 import Eltech from "../assets/El-tech.png";
+import Cipta from "../assets/cipta.png";
 
 const Portfolio = () => {
   return (
@@ -152,7 +153,7 @@ const Portfolio = () => {
             </div>
           </div>
 
-          {/* card 3 */}
+          {/* card 4 */}
           <div className="mb-10 sm:w-1/2 lg:w-1/3 px-4">
             <div className="rounded-t-lg overflow-hidden mb-4">
               <img src={Eltech} alt />
@@ -166,6 +167,68 @@ const Portfolio = () => {
             </a>
             <p className="text-slate-400 mb-2 text-sm">
               Landing Page Build with HTML and CSS
+            </p>
+
+            <div className="flex w-full  mt-5">
+              <a
+                href="https://elangn.github.io/EL-Tech/"
+                className="px-2  bg-green-500 rounded-sm text-xs py-1 flex items-center font-semibold mr-4"
+                target="_blank"
+              >
+                <span className="mr-1"> View</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  strokeWidth={1.5}
+                  stroke="currentColor"
+                  className="w-3 h-3"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+                  />
+                </svg>
+              </a>
+
+              <a
+                href="https://github.com/elangn/EL-Tech.git"
+                className="px-2  bg-yellow-500 rounded-sm text-xs  py-1 flex items-center font-semibold"
+                target="_blank"
+              >
+                <span className="mr-1"> Code</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  strokeWidth={1.5}
+                  stroke="currentColor"
+                  className="w-3 h-3"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+
+          <div className="mb-10 sm:w-1/2 lg:w-1/3 px-4">
+            <div className="rounded-t-lg overflow-hidden mb-4">
+              <img src={Cipta} alt />
+            </div>
+            <a
+              href="https://elangn.github.io/EL-Tech/"
+              target="_blank"
+              className="font-bold text-xl mb-2 block hover:text-orange-600 transition duration-300 text-slate-300"
+            >
+              EL-Tech
+            </a>
+            <p className="text-slate-400 mb-2 text-sm">
+              Landing Page Build with Reactjs and Tailwind
             </p>
 
             <div className="flex w-full  mt-5">
