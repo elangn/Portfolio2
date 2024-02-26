@@ -233,7 +233,7 @@ const Portfolio = () => {
 
             <div className="flex w-full  mt-5">
               <a
-                href="https://www.elang-maulana.online/"
+                href="https://cipta-mitra.netlify.app/"
                 className="px-2  bg-green-500 rounded-sm text-xs py-1 flex items-center font-semibold mr-4"
                 target="_blank"
               >
