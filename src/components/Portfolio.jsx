@@ -228,12 +228,12 @@ const Portfolio = () => {
               Cipta Mitra Kualitama
             </a>
             <p className="text-slate-400 mb-2 text-sm">
-              Landing Page Build with Reactjs and Tailwind
+              Landing Page Company, Build with Reactjs and Tailwind
             </p>
 
             <div className="flex w-full  mt-5">
               <a
-                href="https://cipta-mitra.netlify.app/"
+                href="https://cipta-mitra-kualitama.netlify.app/"
                 className="px-2  bg-green-500 rounded-sm text-xs py-1 flex items-center font-semibold mr-4"
                 target="_blank"
               >
@@ -255,7 +255,7 @@ const Portfolio = () => {
               </a>
 
               <a
-                href="https://github.com/elangn/Cipta.git"
+                href="https://github.com/elangn/Cipta-Mita-Kualitama.git"
                 className="px-2  bg-yellow-500 rounded-sm text-xs  py-1 flex items-center font-semibold"
                 target="_blank"
               >
