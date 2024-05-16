@@ -153,7 +153,7 @@ const Portfolio = () => {
             </div>
           </div>
 
-          {/* card 4 */}
+          {/* card 3 */}
           <div className="mb-10 sm:w-1/2 lg:w-1/3 px-4">
             <div className="rounded-t-lg overflow-hidden mb-4">
               <img src={Eltech} alt />
